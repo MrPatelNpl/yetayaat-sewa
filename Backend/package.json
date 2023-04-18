@@ -1,0 +1,24 @@
+{
+  "name": "yatayat",
+  "version": "1.0.0",
+  "description": "Transport Sewa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shriNiwash/yetayaat-sewa.git"
+  },
+  "author": "shriniwash and team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shriNiwash/yetayaat-sewa/issues"
+  },
+  "homepage": "https://github.com/shriNiwash/yetayaat-sewa#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
